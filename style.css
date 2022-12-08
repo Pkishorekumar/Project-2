@@ -22,7 +22,7 @@ body{
     margin-bottom: 20px;
     width: 20%;
     height: 15em;
-    text-align: center;
+    
 
 }
 
@@ -34,7 +34,7 @@ body{
     margin-bottom: 20px;
     width: 20%;
     height: 15em;
-    text-align: center;
+    
     text-decoration: none;
     color: black;
 }
@@ -45,7 +45,7 @@ body{
     margin-bottom: 20px;
     width: 24.5%;
     height: 15em;
-    text-align: center;
+    
     text-decoration: none;
     color: black;
 }
@@ -61,6 +61,7 @@ hr{
 h4{
     color:#00A5EC ;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-left:30px;
 }
 
 strong{
